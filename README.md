@@ -1,1 +1,2 @@
-# NLP-Bert-model
+# NLP-Project
+Fake news vs True news
