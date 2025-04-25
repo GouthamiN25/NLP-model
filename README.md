@@ -16,7 +16,7 @@ Data Preprocessing & Feature Engineering
 
 Visualization of NLP results
 
-🛠️ Technologies Used
+Technologies Used
 
 Python (Pandas, NumPy)
 
