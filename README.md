@@ -4,7 +4,7 @@
 
 This repository contains implementations of Natural Language Processing (NLP) and Machine Learning (ML) models for text analysis, entity recognition, and keyword extraction.
 
-# Features
+## Features
 
 Named Entity Recognition (NER) using spaCy
 
@@ -16,7 +16,7 @@ Data Preprocessing & Feature Engineering
 
 Visualization of NLP results
 
-# Technologies Used
+## Technologies Used
 
 Python (Pandas, NumPy)
 
