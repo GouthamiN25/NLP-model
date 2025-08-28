@@ -26,4 +26,4 @@ Machine Learning: Scikit-learn
 
 Data Visualization: Matplotlib, Seaborn
 
-Jupyter Notebook for implementation
+Jupyter Notebook 
