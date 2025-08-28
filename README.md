@@ -20,7 +20,7 @@ Visualization of NLP results
 
 Python (Pandas, NumPy)
 
-NLP Libraries:spaCy, YAKE, NLTK
+NLP Libraries: spaCy, YAKE, NLTK
 
 Machine Learning: Scikit-learn
 
